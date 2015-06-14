@@ -1,4 +1,4 @@
-package nicopaez.tutoriales.oo;
+package nicopaez.tutoriales.oo.notas;
 
 import java.util.ArrayList;
 import java.util.List;

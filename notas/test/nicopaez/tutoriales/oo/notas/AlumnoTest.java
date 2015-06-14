@@ -1,4 +1,4 @@
-package nicopaez.tutoriales.oo;
+package nicopaez.tutoriales.oo.notas;
 
 import org.junit.Assert;
 import org.junit.Test;
