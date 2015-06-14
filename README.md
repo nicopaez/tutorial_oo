@@ -1,6 +1,6 @@
 # Tutorial de Orientación a Objetos
 
-
+[![Build Status](https://travis-ci.org/nicopaez/tutorial_oo.svg)](https://travis-ci.org/nicopaez/tutorial_oo)
 
 Este repositorio contiene varios ejercicios que suelo utilizar en mi cursos de orientación a objetos.
 
