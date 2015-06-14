@@ -1,4 +1,4 @@
-package fiuba.algo3.ejemplo1;
+package nicopaez.tutoriales.oo.votaciones;
 
 import org.junit.Assert;
 import org.junit.Test;

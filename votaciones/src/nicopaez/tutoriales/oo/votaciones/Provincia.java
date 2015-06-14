@@ -1,4 +1,4 @@
-package fiuba.algo3.ejemplo1;
+package nicopaez.tutoriales.oo.votaciones;
 
 import java.util.ArrayList;
 import java.util.List;

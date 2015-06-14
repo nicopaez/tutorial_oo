@@ -1,4 +1,4 @@
-package fiuba.algo3.ejemplo1;
+package nicopaez.tutoriales.oo.votaciones;
 
 /**
  * Created by nicopaez on 6/13/15.
